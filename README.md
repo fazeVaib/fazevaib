@@ -8,7 +8,7 @@
      <br>
     <br> Interests: Football, travel, Gaming & Anime. :sparkles:<br>
     <br> <em>"Everyone who you meet is afraid of something, loves something and has lost something."</em>
-    <br> So, Be kind. Have faith. Everything would be fine.<br><br>
+    <br> Be kind. Have faith. Everything would be fine.<br><br>
     <img src="https://github.com/fazeVaib/fazeVaib/blob/master/tenor.gif" width="240px" align="center">
     <br><br>:coffee: Wanna chat? :point_right: @ me on <a href="https://twitter.com/fazevaib">Twitter</a>
   </samp>
