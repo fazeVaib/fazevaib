@@ -1,4 +1,4 @@
-<img src="https://github.com/fazeVaib/fazeVaib/blob/master/banner2.png">
+<img src="https://github.com/fazeVaib/fazeVaib/blob/master/cover2.JPG">
 <p align="center">
   <samp>
     :wave: Hello World! -- @fazevaib
